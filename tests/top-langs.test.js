@@ -117,7 +117,7 @@ describe("Test /api/top-langs", () => {
         title_color: "fff",
         icon_color: "fff",
         text_color: "fff",
-        bg_color: "fff",
+        bg_color: "000",
       }),
     );
   });
